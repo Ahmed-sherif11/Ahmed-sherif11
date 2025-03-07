@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed sherif</h1>
 <h3 align="center">Flutter Developer | Expert in Building High-Performance, Cross-Platform | Passionate About UI/UX and Dart Programming</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-sherif11&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-sherif11" />
-		   <img src="https://img.shields.io/github/followers/Ahmed-sherif11?label=Followers" alt="Ahmed-sherif11" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-sherif11&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-sherif11" />
+  <a href="https://github.com/Ahmed-sherif11?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Ahmed-sherif11?label=Followers&style=social" alt="Follow Ahmed-sherif11" />
+  </a>
 </p>
-<br>
+
+
 
 
 - 🌱 I’m currently learning **Flutter**
@@ -32,11 +37,19 @@
 </p>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-sherif11&theme=tokyonight_duo" alt="Ahmed-sherif11" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ahmed-sherif11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-sherif11&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-  
 
+<p align="center">
+  <a href="https://github.com/Ahmed-sherif11?tab=repositories" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-sherif11&theme=tokyonight_duo&hide_border=true" alt="Ahmed-sherif11 Streak Stats" />
+  </a>
+</p>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/Ahmed-sherif11?tab=repositories" target="_blank">
+    <img alt="Ahmed-sherif11's Github Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Ahmed-sherif11&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" 
+         height="230px"/>
+  </a>
+</p>
 
