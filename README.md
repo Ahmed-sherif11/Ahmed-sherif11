@@ -3,24 +3,29 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-sherif11&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-sherif11" />
-  <a href="https://github.com/Ahmed-sherif11?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Ahmed-sherif11?label=Followers&style=social" alt="Follow Ahmed-sherif11" />
+    <img src="https://komarev.com/ghpvc/?username=Ahmed-sherif11&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-sherif11" />
+  <a href="https://github.com/Ahmed-sherif11" target="_blank">
+      <img src="https://img.shields.io/github/followers/Ahmed-sherif11?label=Followers&style=social" alt="Follow Ahmed-sherif11" />
   </a>
 </p>
 
 
 
+### 🌱 Currently Learning:
+**Flutter** and **Dart** to build responsive cross-platform apps.
 
-- 🌱 I’m currently learning **Flutter**
+### ⚡ Passionate About:
+UI/UX design, improving user experiences, and solving problems with innovative solutions.
 
 
-- ⚡ Always **learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-sherif-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sherif-dev" height="30" width="40" /></a>
 </p>
+
+
+
 
 ## 🛠 Languages and Tools
 <br>
@@ -36,6 +41,8 @@
   <a href="https://www.figma.com" title="Figma"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
 
+
+
 ## 📊 Github Stats
 
 <p align="center">
@@ -43,6 +50,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-sherif11&theme=tokyonight_duo&hide_border=true" alt="Ahmed-sherif11 Streak Stats" />
   </a>
 </p>
+
 
 <br/>
 <p align="center">
@@ -53,3 +61,7 @@
   </a>
 </p>
 
+
+<p align="center">
+Always learning, always evolving 🚀
+</p>
