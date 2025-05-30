@@ -38,7 +38,10 @@ UI/UX design, improving user experiences, and solving problems with innovative s
 <a href="https://firebase.google.com" title="Firebase"> <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
   <a href="https://www.php.net" title="PHP"><img src="https://img.shields.io/badge/php-%238777BB.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
   <a href="https://www.mysql.com" title="MySQL"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://www.figma.com" title="Figma"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.figma.com" title="Figma"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>     <a href="https://supabase.com" title="Supabase">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</a>
+
 </p>
 
 
