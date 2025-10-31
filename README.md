@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed sherif</h1>
+<p align="center">
+💻 <b>Flutter Developer</b> | 📱 <b>Mobile App Creator</b>
+</p>
+
 <h3 align="center">Flutter Developer | Expert in Building High-Performance, Cross-Platform | Passionate About UI/UX and Dart Programming</h3>
 
 
