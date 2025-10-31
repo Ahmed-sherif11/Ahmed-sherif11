@@ -7,7 +7,14 @@
   <a href="https://github.com/Ahmed-sherif11" target="_blank">
       <img src="https://img.shields.io/github/followers/Ahmed-sherif11?label=Followers&style=social" alt="Follow Ahmed-sherif11" />
   </a>
+    
+<p align="center">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/laptop-with-programng-code-animation-gif-download-4386213.gif" width="500" alt="coding animation" />
 </p>
+
+
+
+
 
 
 
